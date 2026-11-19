@@ -1,0 +1,6 @@
+{
+  "name": "Vesper & Co",
+  "description": "Set de 12 herramientas de coctelería profesional en acero inoxidable y madera de nogal con recetario de alta coctelería. Buenos Aires, Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
